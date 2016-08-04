@@ -1,0 +1,33 @@
+_repo: The-Small-House-at-Allington_4599
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: "The Small House at Allington is the fifth novel in Anthony Trollope's\
+  \ series known as the \"Chronicles of Barsetshire\", first published in 1864. It\
+  \ enjoyed a revival in popularity in the early 1990s when the British prime minister,\
+  \ John Major, declared it as his favourite book.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4599'
+  wikidata: Q7764868
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Clergy -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Barsetshire (England: Imaginary place) -- Fiction'
+- GITenberg
+title: The Small House at Allington
+url: http://www.gutenberg.org/ebooks/4599
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Small_House_at_Allington
