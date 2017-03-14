@@ -1,5 +1,8 @@
 _repo: The-Small-House-at-Allington_4599
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Trollope, Anthony
@@ -12,6 +15,8 @@ description: "The Small House at Allington is the fifth novel in Anthony Trollop
   \ series known as the \"Chronicles of Barsetshire\", first published in 1864. It\
   \ enjoyed a revival in popularity in the early 1990s when the British prime minister,\
   \ John Major, declared it as his favourite book.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4599#The-Small-House-at-Allington
 gutenberg_issued: '2003-10-01'
 gutenberg_type: Text
 identifiers:
